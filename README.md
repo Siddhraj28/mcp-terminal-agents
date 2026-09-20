@@ -82,6 +82,4 @@ mcp-pypi/
 └── uv.lock
 ```
 
-## License
 
-Add a license of your choice (e.g. MIT) — none is currently specified for this project.
